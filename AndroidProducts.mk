@@ -1,2 +1,5 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_a10.mk
+    $(LOCAL_DIR)/a10.mk \
+    $(LOCAL_DIR)/a10-blobs.mk
+
+
